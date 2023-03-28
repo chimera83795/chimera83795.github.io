@@ -19,3 +19,5 @@ To turn the .py-programm into an exe-file, you can use pyinstaller or auto-py-tp
 >pip install pyinstaller 
 
 >pyinstaller --noconfirm --onefile --console  "/path/of/the/programm"
+or
+>python -m auto_py_to_exe (-nc)
