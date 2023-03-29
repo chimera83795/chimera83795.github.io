@@ -23,3 +23,9 @@ To turn the .py-programm into an exe-file, you can use pyinstaller or auto-py-tp
 or
 
 >python -m pyinstaller --noconfirm --onefile --console  "/path/of/the/programm"
+
+To use the python-file you have to install the cryptography libary
+
+>pip(3) install cryptography
+
+>python -m install cryptography
